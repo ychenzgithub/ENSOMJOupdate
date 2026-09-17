@@ -42,12 +42,16 @@ It is specifically tailored to analyze and contrast the developing **2026 El Ni�
 ├── data_loader.py                    # Modular data downloading, cleaning, and preprocessing
 ├── plot_enso_mjo_timeseries.py       # Main plotting script with customizable 2026 overrides
 ├── test_update_2026.py               # Test/demo script for programmatic 2026 updates
+├── PHYSICAL_INTERPRETATION.md        # Comprehensive physical & meteorological interpretations
 └── README.md                         # Project documentation
 ```
 
 ---
 
 ## 3. Publication Figures Overview
+
+> [!NOTE]
+> For a comprehensive, publication-grade physical and meteorological interpretation of all three figures (including Walker circulation dynamics, spring Kelvin wave seeding, Maritime Continent wetting deficits, and peatland fire risk), please refer to **[PHYSICAL_INTERPRETATION.md](./PHYSICAL_INTERPRETATION.md)**.
 
 ### Figure 1: Aligned Annual Evolution Comparison
 - **File:** [figure1_major_el_nino_monthly_comparison.png](./figures/figure1_major_el_nino_monthly_comparison.png) ([PDF](./figures/figure1_major_el_nino_monthly_comparison.pdf))
